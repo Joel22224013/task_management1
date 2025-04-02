@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c022113-d418-4010-9676-3180fcda7869" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-management/src/main/resources/banner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/TaskManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/TaskManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/controller/AuthenticationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/controller/AuthenticationRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/controller/AuthenticationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/controller/AuthenticationResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/controller/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/controller/RegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/controller/taskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/controller/taskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/filter/JwtFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/filter/JwtFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/service/CustomUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/service/CustomUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/util/JwtUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/java/com/example/task_management/util/JwtUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-management/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/task-management/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NEMESIS-7&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Joel22224013/Task_management.git&quot;,
+    &quot;accountId&quot;: &quot;62beba4d-6069-4c25-aa6a-3791f1873e9f&quot;
+  }
+}</component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ugqrZDSgOyjyjUpF57bf2Wbynk" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.TaskManagementApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="TaskManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="task-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.task_management.TaskManagementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c022113-d418-4010-9676-3180fcda7869" name="Changes" comment="" />
+      <created>1742680764240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742680764240</updated>
+      <workItem from="1742680765301" duration="7395000" />
+      <workItem from="1742695483199" duration="995000" />
+      <workItem from="1743598427519" duration="2228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
